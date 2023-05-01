@@ -30,14 +30,14 @@ MEDICABINET is an advanced C language application for managing a medical office.
 
 Here are a few examples of what MEDICABINET looks like:
 
-![Screenshot 0](Screenshots/IMG-1st-SCREEN.jpg)
+![Screenshot 0](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/IMG-1st-SCREEN.jpg)
 
-![Screenshot 1](Screenshots/MEDICABINET-APP1.png)
+![Screenshot 1](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP1.png)
 
-![Screenshot 2](Screenshots/MEDICABINET-APP2.png)
+![Screenshot 2](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP2.png)
 
-![Screenshot 3](Screenshots/MEDICABINET-APP3.png)
+![Screenshot 3](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP3.png)
 
-![Screenshot 4](Screenshots/MEDICABINET-APP4.png)
+![Screenshot 4](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP4.png)
 
-![Screenshot 5](Screenshots/MEDICABINET-APP5.png)
+![Screenshot 5](https://github.com/AbdelaliChe/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP5.png)
